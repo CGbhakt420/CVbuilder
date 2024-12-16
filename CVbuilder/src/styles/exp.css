@@ -1,0 +1,14 @@
+.practical-experience {
+    margin: 20px;
+  }
+  
+  .practical-experience input,
+  .practical-experience textarea {
+    display: block;
+    margin: 10px 0;
+  }
+  
+  .practical-experience button {
+    margin-top: 10px;
+  }
+  
